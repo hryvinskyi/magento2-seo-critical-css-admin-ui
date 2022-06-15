@@ -1,11 +1,11 @@
 {
     "name": "hryvinskyi/magento2-seo-critical-css-admin-ui",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "N/A",
     "type": "magento2-module",
     "require": {
         "magento/framework": "*",
-        "hryvinskyi/magento2-critical-css": "1.0.*"
+        "hryvinskyi/magento2-seo-critical-css": "1.0.*"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest"
