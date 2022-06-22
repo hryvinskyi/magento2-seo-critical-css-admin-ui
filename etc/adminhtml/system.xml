@@ -20,7 +20,7 @@
                        showInStore="1">
                     <label>List</label>
                     <frontend_model>Hryvinskyi\SeoCriticalCssAdminUi\Block\Adminhtml\System\Config\Form\Field\CriticalCssToPages</frontend_model>
-                    <backend_model>Hryvinskyi\SeoRobotsAdminUi\Model\Config\Backend\ArraySerialized</backend_model>
+                    <backend_model>Magento\Config\Model\Config\Backend\Serialized\ArraySerialized</backend_model>
                     <depends>
                         <field id="enabled">1</field>
                     </depends>
